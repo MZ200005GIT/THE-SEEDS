@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/__ExternalActors__/NewMap/4/XR/T0NNV9D93FGEGFPEBK9ACA.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/__ExternalActors__/NewMap/D/HD/JKOI1Q1Q3Q1LIRGFL1XB77.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/blueprints/BP_BossEnemy.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/Characters/SKM_Boss.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/Characters/Boss_Skeleton.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/blueprints/SM_BossBullet.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/blueprints/BP_CombatCharacter.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/Characters/boss2animhit_Anim.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/Characters/Anim_HitBoss.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/Characters/Anim_BossDie.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/Characters/Anim_BossDie_Montage.uasset",
+				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/Characters/Anim_HitBoss_Montage.uasset"
+			]
+		}
+	]
+}

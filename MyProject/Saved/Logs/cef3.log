@@ -1,13 +1,12 @@
-[15840:7264:0424/164902.053:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15840:7264:0424/164902.203:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15840:7264:0424/164907.898:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[10572:16792:0424/164910.898:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7D324D5020C65A77FA79A5F79AB1A8C2 will be ignored
-[15840:4124:0424/180337.732:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4644:4272:0424/180337.736:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15840:4124:0424/180342.736:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4644:14808:0424/180342.746:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15840:12988:0424/180356.892:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4644:14808:0424/180356.898:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15840:4124:0424/180416.897:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4644:14808:0424/180416.936:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15840:7264:0424/184527.106:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[11340:11328:0424/184950.179:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11340:11328:0424/184950.285:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[11340:21480:0424/184950.347:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11340:11328:0424/184950.454:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11340:17668:0424/184954.998:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11340:17668:0424/184955.002:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11340:17668:0424/184955.003:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11340:17668:0424/184955.005:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11340:22380:0424/184955.376:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11340:22380:0424/184955.381:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16628:7416:0424/184956.003:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0AED7719D618436B5F21D691F9793BD2 will be ignored
+[11340:11328:0424/190015.358:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

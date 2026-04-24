@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/blueprints/BP_baretree.uasset",
+				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/blueprints/bp_crop.uasset",
+				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/__ExternalActors__/NewMap/3/DN/7OXD9L6WNA068Y6AU009W5.uasset",
+				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/__ExternalActors__/NewMap/B/1J/FAFW8M452CWX2FYXKZ3N19.uasset",
 				"D:/repos/THE SEEDS/MyProject/Content/blueprints/BP_CombatCharacter.uasset",
 				"D:/repos/THE SEEDS/MyProject/Content/blueprints/bp_enemy.uasset",
 				"D:/repos/THE SEEDS/MyProject/Content/__ExternalActors__/NewMap/4/XR/T0NNV9D93FGEGFPEBK9ACA.uasset",

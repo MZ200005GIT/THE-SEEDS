@@ -1,5 +1,1 @@
-2026/04/25-23:37:32.669 5698 Log #3: 2 ops saved to Table #4 OK
-2026/04/25-23:37:32.671 5698 Archiving D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\Site Characteristics Database/000003.log: OK
-2026/04/25-23:37:32.671 5698 Table #4: 2 entries OK
-2026/04/25-23:37:32.673 5698 Archiving D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/04/25-23:37:32.682 5698 **** Repaired leveldb D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/04/25-23:37:32.698 5698 Reusing MANIFEST D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001

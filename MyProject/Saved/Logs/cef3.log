@@ -1,11 +1,94 @@
-[11940:21140:0426/010750.150:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11940:15600:0426/010750.231:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[11940:21140:0426/010750.288:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11940:8744:0426/010754.061:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[11940:10232:0426/010754.065:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[11940:10232:0426/010754.066:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[11940:10232:0426/010754.067:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[11940:22276:0426/010754.354:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[11940:22276:0426/010754.355:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3652:13440:0426/010755.474:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2CAE6B553C580D0E996CD9ECC19D5034 will be ignored
-[11940:21140:0426/010923.735:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4484:9808:0426/014344.071:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4484:10100:0426/014344.155:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4484:9808:0426/014344.208:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4484:21532:0426/014347.826:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4484:21532:0426/014347.829:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4484:21532:0426/014347.831:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4484:21532:0426/014347.833:WARNING:leveldb_database.cc(141)] Unable to open D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4484:20556:0426/014348.171:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4484:20556:0426/014348.172:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7248:14212:0426/014348.381:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[6712:13344:0426/014349.647:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5FAFF2E06427142F845F5CBBC4310E7D will be ignored
+[7248:14212:0426/014349.651:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[7248:14212:0426/014349.992:ERROR:backend_impl.cc(989)] Critical error found -8
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:ERROR:entry_impl.cc(1029)] No file for c1030004
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:ERROR:entry_impl.cc(1029)] No file for c1030010
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:ERROR:entry_impl.cc(1029)] No file for c103000a
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.992:ERROR:entry_impl.cc(1029)] No file for c103000c
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:ERROR:entry_impl.cc(1029)] No file for c1030006
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:ERROR:entry_impl.cc(1029)] No file for c103001c
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:ERROR:entry_impl.cc(1029)] No file for c1030016
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:ERROR:entry_impl.cc(1029)] No file for c1030064
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:ERROR:entry_impl.cc(1029)] No file for c1030002
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:ERROR:entry_impl.cc(1029)] No file for c1030012
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:ERROR:entry_impl.cc(1029)] No file for c1030034
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014349.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.017:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.017:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.018:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.018:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.019:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.019:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.027:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.027:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.036:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.036:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.043:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.043:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.046:ERROR:entry_impl.cc(955)] Failed to save user data
+[7248:14212:0426/014350.537:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.537:WARNING:storage_block-inl.h(138)] Failed data load.
+[7248:14212:0426/014350.537:WARNING:storage_block-inl.h(138)] Failed data load.
+[4484:9808:0426/014606.246:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/bp_crop.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/bp_enemy.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/BP_SGameInstance.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_instanceupdates.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_enemykilled.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/BP_BossEnemy.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_askforstatus.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_returnstatus.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/SM_Gun.uasset"
+			]
+		}
+	]
+}

@@ -1,3 +1,2 @@
-2026/04/26-23:32:20.564 1540 Reusing MANIFEST C:\Users\nifra\Documents\GitHub\THE-SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db/MANIFEST-000001
-2026/04/26-23:32:20.564 1540 Recovering log #3
-2026/04/26-23:32:20.565 1540 Reusing old log C:\Users\nifra\Documents\GitHub\THE-SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db/000003.log 
+2026/04/26-23:44:04.970 4ef0 Creating DB D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db since it was missing.
+2026/04/26-23:44:04.986 4ef0 Reusing MANIFEST D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\shared_proto_db/MANIFEST-000001

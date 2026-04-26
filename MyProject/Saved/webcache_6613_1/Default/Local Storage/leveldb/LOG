@@ -1,3 +1,2 @@
-2026/04/26-23:32:15.687 4120 Reusing MANIFEST C:\Users\nifra\Documents\GitHub\THE-SEEDS\MyProject\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/26-23:32:15.699 4120 Recovering log #3
-2026/04/26-23:32:15.705 4120 Reusing old log C:\Users\nifra\Documents\GitHub\THE-SEEDS\MyProject\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 
+2026/04/26-23:44:01.482 4c68 Creating DB D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\Local Storage\leveldb since it was missing.
+2026/04/26-23:44:01.709 4c68 Reusing MANIFEST D:\repos\THE SEEDS\MyProject\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001

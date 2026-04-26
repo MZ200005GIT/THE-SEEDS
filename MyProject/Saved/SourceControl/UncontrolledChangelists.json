@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/bp_crop.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/bp_enemy.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/BP_SGameInstance.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_instanceupdates.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/BP_BossEnemy.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_askforstatus.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_returnstatus.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/SM_Gun.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/BP_CombatCharacter.uasset",
 				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/widgets/wbp_winmenu.uasset",
 				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/blueprints/BP_BossEnemy.uasset",
 				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/FONTS/GrimeSlime-Regular.uasset",
@@ -75,15 +84,7 @@
 				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/sounds/die2.uasset",
 				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/sounds/SW_EnemyDie2.uasset",
 				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/sounds/SW_EnemyDie1.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/blueprints/bp_crop.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/blueprints/bp_enemy.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/blueprints/BP_SGameInstance.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_instanceupdates.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_enemykilled.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/blueprints/BP_BossEnemy.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_askforstatus.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_returnstatus.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/blueprints/SM_Gun.uasset"
+				"D:/repos/THE SEEDS/MyProject/Content/interfaces/bpi_enemykilled.uasset"
 			]
 		}
 	]

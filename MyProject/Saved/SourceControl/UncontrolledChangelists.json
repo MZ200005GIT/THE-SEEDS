@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/repos/THE SEEDS/MyProject/Content/blueprints/BP_CombatCharacter.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/widgets/WBP_seedneed.uasset"
+				"D:/repos/THE SEEDS/MyProject/Content/widgets/WBP_seedneed.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/bp_enemy.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/bp_crop.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/__ExternalActors__/NewMap/7/NZ/LF0QM04IKDXKKW9NXAZGUD.uasset"
 			]
 		}
 	]

@@ -1,6 +1,6 @@
-[19544:25240:0426/201124.846:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19544:25240:0426/201124.891:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[19544:25240:0426/201125.042:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19544:25240:0426/201130.823:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[25584:7860:0426/201132.786:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BB90049A029520BE8298BEE36D3CA8D6 will be ignored
-[19544:25240:0426/210150.550:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4192:2680:0426/222247.830:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4192:13928:0426/222247.919:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4192:2680:0426/222247.967:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7780:23868:0426/222253.582:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-630B76C4BE804AB285C4CA8582EA8BDC will be ignored
+[4192:20272:0426/222255.295:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[4192:2680:0426/225108.810:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

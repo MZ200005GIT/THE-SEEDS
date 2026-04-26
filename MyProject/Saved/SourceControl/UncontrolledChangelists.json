@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/widgets/wbp_winmenu.uasset",
+				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/blueprints/BP_BossEnemy.uasset",
+				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/FONTS/GrimeSlime-Regular.uasset",
+				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/FONTS/GrimeSlime-Regular_Font.uasset",
+				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/blueprints/BP_CombatCharacter.uasset",
+				"C:/Users/nifra/Documents/GitHub/THE-SEEDS/MyProject/Content/widgets/wbp_losemenu.uasset",
 				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/blueprints/BP_CombatCharacter.uasset",
 				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/__ExternalActors__/NewMap/8/8L/NMLH8FE7JFGM2KJ6ISZMN5.uasset",
 				"D:/New folder/unreal projects/THE-SEEDS/MyProject/Content/__ExternalActors__/NewMap/2/8Z/650SNWJJEGDHIC4KW3NOLG.uasset",

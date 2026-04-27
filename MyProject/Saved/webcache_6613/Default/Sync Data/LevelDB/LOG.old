@@ -1,3 +1,2 @@
-2026/04/27-05:15:44.475 1d68 Reusing MANIFEST D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
-2026/04/27-05:15:44.481 1d68 Recovering log #3
-2026/04/27-05:15:44.482 1d68 Reusing old log D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
+2026/04/27-18:50:46.259 1ef0 Creating DB D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
+2026/04/27-18:50:46.360 1ef0 Reusing MANIFEST D:\repos\THE SEEDS\MyProject\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001

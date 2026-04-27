@@ -12,7 +12,9 @@
 				"D:/repos/THE SEEDS/MyProject/Content/__ExternalActors__/NewMap/6/AF/1QRULEH7AEGWWZSU8MZGIW.uasset",
 				"D:/repos/THE SEEDS/MyProject/Content/__ExternalActors__/NewMap/A/8C/2GYNNP63CB5WKBY683FNN7.uasset",
 				"D:/repos/THE SEEDS/MyProject/Content/__ExternalActors__/NewMap/A/D8/UC9M8DB8WNBAS48QBJAAN8.uasset",
-				"D:/repos/THE SEEDS/MyProject/Content/NewMap.umap"
+				"D:/repos/THE SEEDS/MyProject/Content/NewMap.umap",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/SM_Gun.uasset",
+				"D:/repos/THE SEEDS/MyProject/Content/blueprints/bp_crop.uasset"
 			]
 		}
 	]

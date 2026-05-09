@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/repos/THE-SEEDS/MyProject/Content/__ExternalActors__/NewMap/C/TH/BKVA53U4VSKTQ1CQ0AHK9M.uasset",
-				"D:/repos/THE-SEEDS/MyProject/Content/materials/cellshading_Inst.uasset"
+				"D:/repos/THE-SEEDS/MyProject/Content/materials/cellshading_Inst.uasset",
+				"D:/repos/THE-SEEDS/MyProject/Content/blueprints/bp_enemy.uasset"
 			]
 		}
 	]

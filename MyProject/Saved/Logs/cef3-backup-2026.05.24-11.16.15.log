@@ -1,0 +1,6 @@
+[28560:3452:0524/161304.674:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28560:3452:0524/161305.019:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28560:3452:0524/161329.901:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[19284:31936:0524/161333.388:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FDE52450F39300D0105BDB53B56D2917 will be ignored
+[19500:13548:0524/161336.936:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[28560:3452:0524/161615.818:ERROR:device_event_log_impl.cc(196)] [16:16:15.807] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)

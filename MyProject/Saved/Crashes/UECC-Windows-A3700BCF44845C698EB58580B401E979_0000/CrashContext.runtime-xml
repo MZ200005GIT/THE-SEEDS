@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>36E199804E177C58F07004A48C594EB2</ExecutionGuid>
+		<CrashGUID>UECC-Windows-A3700BCF44845C698EB58580B401E979_0000</CrashGUID>
+		<IsEnsure>false</IsEnsure>
+		<IsStall>false</IsStall>
+		<IsAssert>false</IsAssert>
+		<CrashType>Crash</CrashType>
+		<ErrorMessage>Unhandled Exception: EXCEPTION_STACK_OVERFLOW</ErrorMessage>
+		<CrashReporterMessage />
+		<CrashReporterMessage>Unattended</CrashReporterMessage>
+		<ProcessId>1688</ProcessId>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsWithDebugInfo>true</IsWithDebugInfo>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE-MyProject</GameName>
+		<ExecutableName>UnrealEditor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>WindowsEditor</PlatformName>
+		<PlatformFullName>Win64 [Windows 11 (25H2) [10.0.26200.8457]  64b]</PlatformFullName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Commandlet</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>5.7.3-50162420+++UE5+Release-5.7</EngineVersion>
+		<EngineCompatibleVersion>5.7.3-50162420+++UE5+Release-5.7</EngineCompatibleVersion>
+		<CommandLine>CommandLineRemoved</CommandLine>
+		<LanguageLCID>9</LanguageLCID>
+		<AppDefaultLocale>en-PK</AppDefaultLocale>
+		<BuildVersion>++UE5+Release-5.7-CL-50162420</BuildVersion>
+		<Symbols>**UE5*Release-5.7-CL-50162420-Win64-Development</Symbols>
+		<IsUERelease>true</IsUERelease>
+		<IsRequestingExit>false</IsRequestingExit>
+		<UserName />
+		<BaseDir>D:/Softwares/Epic Games/UE_5.7/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>D:/Softwares/Epic Games/UE_5.7/</RootDir>
+		<MachineId>AF1AF16A4D32BF362DDD4CA3FDB25D07</MachineId>
+		<LoginId>af1af16a4d32bf362ddd4ca3fdb25d07</LoginId>
+		<EpicAccountId>db542c4d1e39420bb16c4ce2f13df627</EpicAccountId>
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName />
+		<Misc.NumberOfCores>14</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>20</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>12th Gen Intel(R) Core(TM) i7-12800H</Misc.CPUBrand>
+		<Misc.CPUModelID>27043</Misc.CPUModelID>
+		<Misc.CPUMicrocodeRevision>1083</Misc.CPUMicrocodeRevision>
+		<Misc.PrimaryGPUBrand>Intel(R) UHD Graphics</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 11 (25H2) [10.0.26200.8457]</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<Misc.AnticheatProvider />
+		<MemoryStats.TotalPhysical>16849256448</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>27049803776</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>1249599488</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>6066176</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1900412928</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1900412928</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>2042986496</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>2057850880</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>1</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>188</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>2</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+		<CallStack />
+		<PCallStack />
+		<PCallStackHash />
+		<TimeOfCrash>639152315745100000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<CPUBrand>12th Gen Intel(R) Core(TM) i7-12800H</CPUBrand>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformIsRunningWine>false</PlatformIsRunningWine>
+		<PlatformSupportsWindows11>true</PlatformSupportsWindows11>
+		<IsRunningOnBattery>true</IsRunningOnBattery>
+		<IsUsingBatterySaver>false</IsUsingBatterySaver>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+		<CrashTrigger>0</CrashTrigger>
+	</PlatformProperties>
+	<EngineData>
+		<MatchingDPStatus>WindowsEditorNo errors</MatchingDPStatus>
+		<RHI.IntegratedGPU>false</RHI.IntegratedGPU>
+		<RHI.DriverDenylisted>false</RHI.DriverDenylisted>
+		<RHI.D3DDebug>false</RHI.D3DDebug>
+		<RHI.DRED>false</RHI.DRED>
+		<RHI.DREDMarkersOnly>false</RHI.DREDMarkersOnly>
+		<RHI.DREDContext>false</RHI.DREDContext>
+		<RHI.Aftermath>true</RHI.Aftermath>
+		<RHI.RHIName>D3D12</RHI.RHIName>
+		<RHI.AdapterName>NVIDIA RTX A1000 Laptop GPU</RHI.AdapterName>
+		<RHI.UserDriverVersion>581.95</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>32.0.15.8195</RHI.InternalDriverVersion>
+		<RHI.DriverDate>11-18-2025</RHI.DriverDate>
+		<RHI.FeatureLevel>SM6</RHI.FeatureLevel>
+		<RHI.GPUVendor>NVIDIA</RHI.GPUVendor>
+		<RHI.DeviceId>25B9</RHI.DeviceId>
+	</EngineData>
+	<GameData>
+</GameData>
+</FGenericCrashContext>

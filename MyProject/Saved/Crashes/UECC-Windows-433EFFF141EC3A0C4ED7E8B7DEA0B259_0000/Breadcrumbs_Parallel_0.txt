@@ -1,0 +1,4 @@
+Breadcrumbs 'Parallel'
+ - SlateUI Title = MyProject - Unreal Editor
+ - RenderGraphExecute - Slate
+ - Frame 45080

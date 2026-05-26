@@ -1,0 +1,5 @@
+Breadcrumbs 'RHIThread'
+ - Skinning0000 Mesh=SKM_Enemy LOD=0 Chunk=0 InStreamStart=0 OutStart=0 Vert=1478 Morph=0/0
+ - GPUSkinCache_UpdateSkinningBatches
+ - SceneRender - ViewFamilies
+ - Frame 105148
